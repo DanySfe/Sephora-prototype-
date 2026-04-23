@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import svgPaths from "./svg-z15nkphope";
 import imgMain from "figma:asset/cbaeb6ae2d19647445308b3f2fb403c0a3f5c9d6.png";
-import imgThumb1 from "figma:asset/d2bf9d32b26310962726fec0f0cff55a5f218d41.png";
-import imgThumb2 from "figma:asset/63d83949a74ae90e97417f3e46b1900d1d5d9414.png";
-import imgThumb3 from "figma:asset/437de07bfa1fcc867da07ddcf1348500a0cbcac0.png";
-import imgThumb4 from "figma:asset/540687aa65af2ef782464c05a5da6d2ea0a69994.png";
-import imgThumb5 from "figma:asset/515fb5ea20acd2c8fee82212a786ad41cfd86303.png";
+import imgThumb1 from "figma:asset/07bbc8c438216fa8d636d8de86a5cd26c71d2011.png";
+import imgThumb2 from "figma:asset/fcead3068875a86190fc278f09875186229d4f86.png";
+import imgThumb3 from "figma:asset/cbaeb6ae2d19647445308b3f2fb403c0a3f5c9d6.png";
+import imgThumb4 from "figma:asset/247135082394c667367a2dbdf1b82c0863c304a5.png";
+import imgThumb5 from "figma:asset/82eff39fd5c9ed3cefb365b7085975bfa790a7dc.png";
 
 // Bottom Cards
 import imgCard1 from "figma:asset/009677769b091bc49bc4d17cc1363171307e8745.png";
